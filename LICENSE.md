@@ -1,4 +1,4 @@
-# 
+# new cross-margin trading bot Tool | grid-trading + low-frequency is the best cross-margin trading bot, featuring grid-trading and low-frequency. Smart, fast, and optimized for
 
 
 
